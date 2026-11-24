@@ -23,8 +23,6 @@ menuBtn.addEventListener("click", function () {
 });
 const words = [
     "CSE Student",
-    "Web Developer",
-    "Tech Enthusiast"
 ];
 
 let wordIndex = 0;
